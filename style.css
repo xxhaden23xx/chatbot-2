@@ -1,0 +1,18 @@
+body {background-image: url("https://education.cu-portland.edu/wp-content/uploads/sites/33/2013/02/Math-graphs-and-charts-on-a-chalkboard.jpg");}
+h1 {
+    border-bottom: 6px solid red;
+    background-color: lightgrey;}
+    
+  h2 {
+    border-bottom: 6px solid red;
+    background-color: lightgrey;}
+    
+  h3 {
+    border-bottom: 6px solid red;
+    background-color: lightgrey;}
+  body {
+    border-style: solid;
+    border-width: 5px;}
+  body {
+    border-style: solid;
+    border-color: grey;}
